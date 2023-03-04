@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.32
+faker==17.0.0
+numpy==1.24.2
+Flask==2.1.0
